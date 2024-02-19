@@ -1,0 +1,177 @@
+body{
+  font-family: "Roboto", sans-serif;
+  color:#434455;
+  background-color: #FFFFFF;
+}
+
+ul{
+  list-style-type: none;
+}
+
+a{
+  text-decoration: none;
+}
+
+.btn{
+  cursor: pointer;
+  background-color: #4D5AE5;
+  color: #FFFFFF;
+  font-size: "Roboto", sans-serif;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+}
+
+.btn:hover{
+  background-color: #404BBF;
+}
+
+.btn:active{
+  background-color: #404BBF;
+}
+
+.btn:focus{
+  background-color: #404BBF;
+}
+
+.logo{
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  color:#4d5ae5;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.logo-color{
+  color: #2e2f42;
+}
+
+.logo-color-footer{
+  color: #f4f4fd;
+}
+
+.main-page{
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.main-page:hover{
+  color: #404bbf;
+}
+
+.main-page:focus{
+  color: #404bbf;
+}
+
+.adress{
+  font-style: normal;
+}
+
+.contact{
+  color: #434455;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.contact:hover{
+  color: #404bbf;
+}
+
+.contact:focus{
+  color: #404bbf;
+}
+
+.main-hed{
+  color: #FFFFFF;
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+}
+
+.section-one{
+  background-color: #2E2F42;
+}
+
+.first-info{
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.text-info{
+  color: #434455;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.section-three{
+  background-color: #F4F4FD;
+}
+
+.team-main{
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
+.team-info{
+  background-color: #ffffff;
+}
+
+.team-name{
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.team-profy{
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.portfolio-head{
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
+.portfolio-info{
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.portfolio-text{
+  color:#434455;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.foot{
+  background-color: #2E2F42;
+}
+
+.foot-info{
+  color:#F4F4FD;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
