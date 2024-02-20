@@ -50,6 +50,7 @@ a{
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  margin-right: 76px;
 }
 
 .logo-color{
@@ -70,9 +71,7 @@ a{
 .nav-header{
   display: flex;
   align-items: center;
-  margin-right: 76px;
 }
-
 .main-page{
   font-weight: 500;
   line-height: 1.5;
