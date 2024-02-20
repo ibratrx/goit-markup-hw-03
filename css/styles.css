@@ -61,6 +61,11 @@ a{
   color: #f4f4fd;
 }
 
+.link-header{
+  display: flex;
+  gap: 24px 0;
+}
+
 .div-header{
   display: flex;
   width: 1158px;
@@ -71,11 +76,6 @@ a{
 .nav-header{
   display: flex;
   align-items: center;
-}
-
-.ul-header{
-  display: flex;
-  gap: 40px;
 }
 
 .main-page{
