@@ -61,6 +61,11 @@ a{
   color: #f4f4fd;
 }
 
+,link-header{ 
+  display: flex;
+  gap: 40px;
+}
+
 .div-header{
   display: flex;
   width: 1158px;
