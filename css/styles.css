@@ -73,11 +73,6 @@ a{
   align-items: center;
 }
 
-.ul-hader{
-  display: flex;
-  gap: 40px;
-}
-
 .main-page{
   font-weight: 500;
   line-height: 1.5;
@@ -95,6 +90,11 @@ a{
 
 .adress{
   font-style: normal;
+}
+
+.contact-list{
+  display: flex;
+  gap: 40px;
 }
 
 .contact{
