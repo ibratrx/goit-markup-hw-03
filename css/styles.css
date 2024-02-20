@@ -20,13 +20,6 @@ a{
   text-decoration: none;
 }
 
-.div-header{
-  display: flex;
-  width: 1158px;
-  margin: 0 auto;
-  padding: 0 15px 0 15px;
-}
-
 .btn{
   cursor: pointer;
   background-color: #4D5AE5;
@@ -67,11 +60,24 @@ a{
   color: #f4f4fd;
 }
 
+.div-header{
+  display: flex;
+  width: 1158px;
+  margin: 0 auto;
+  padding: 0 15px 0 15px;
+}
+
+.nav-header{
+  display: flex;
+  align-items: center;
+}
+
 .main-page{
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  margin-right: 76px;
 }
 
 .main-page:hover{
