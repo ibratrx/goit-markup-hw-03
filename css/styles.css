@@ -20,6 +20,11 @@ a{
   text-decoration: none;
 }
 
+.div-header{
+  display: flex;
+  width: 1158px;
+}
+
 .btn{
   cursor: pointer;
   background-color: #4D5AE5;
