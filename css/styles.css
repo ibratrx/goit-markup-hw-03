@@ -98,7 +98,10 @@ a{
   padding: 24 px 0;
 }
 
-.contact-list
+.contact-list {
+  display: flex;
+  gap: 40px;
+}
 
 .contact{
   color: #434455;
