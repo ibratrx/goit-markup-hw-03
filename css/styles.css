@@ -73,6 +73,11 @@ a{
   align-items: center;
 }
 
+.ul-header{
+  display: flex;
+  gap: 40px;
+}
+
 .main-page{
   font-weight: 500;
   line-height: 1.5;
@@ -90,12 +95,10 @@ a{
 
 .adress{
   font-style: normal;
+  padding: 24 px 0;
 }
 
-.contact-list{
-  display: flex;
-  gap: 40px;
-}
+.contact-list
 
 .contact{
   color: #434455;
