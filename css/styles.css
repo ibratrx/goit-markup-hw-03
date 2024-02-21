@@ -131,6 +131,7 @@ a{
   text-align: center;
   letter-spacing: 0.02em;
   width: 188px 0;
+  max-width: 496px;
 }
 
 .section-one{
